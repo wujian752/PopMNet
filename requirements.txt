@@ -1,7 +1,7 @@
 protobuf==3.6.1
 coloredlogs==10.0
 mido==1.2.9
-numpy==1.16.0
+numpy==1.22.0
 pretty-midi==0.2.8
 six==1.12.0
 tensorboardX==1.6
